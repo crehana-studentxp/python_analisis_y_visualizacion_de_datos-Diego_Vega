@@ -1,4 +1,3 @@
-# python_analisis_y_visualizacion_de_datos-Diego_Vega
 <div id="top">
   <a href="https://www.crehana.com">
     <img src="images/logo.png" alt="Logo" width="50" height="50">
@@ -19,16 +18,25 @@
   <h3 align="center">Análisis y visualización de datos</h3>
   <p align="center">con Diego Vega</h3>
 </div>
+
 ### Tecnologías usadas
+
 El curso, sus ejemplos y proyectos propuestos están desarrollados en Python.
-Recomendamos el uso de RStudio como editor de código.
-* [Python](https://www.python.org/)
+Recomendamos el uso de Google Colab como editor de código.
+* [Colab](https://colab.research.google.com/)
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- LICENSE -->
 ## Licencia
+
 Distribuido bajo la licencia MIT License.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
+
 <!-- CONTACT -->
 ## Contacto
+
 ¿Tienes comentarios sobre los archivos del curso? Envíanos un correo a proyectos@crehana.com
+
 <p align="right">(<a href="#top">back to top</a>)</p>
